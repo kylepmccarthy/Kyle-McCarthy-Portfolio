@@ -23,7 +23,7 @@
 
 [Urban Forest Modelling Philadelphia, Pennsylvania - ESRI ArcGIS, SQL, Geospatial Statistics, Cartography](https://drive.google.com/file/d/1YKganCp9Gg8XgQWD1hncI3TdZBhpPdrQ/view?usp=sharing)
 
-<img src="images/VermontMap.PNG?raw=true"/>
+<img src="images/VermontMap.png?raw=true"/>
 ------
 
 ### Vermont Car Crash Trauma Center Analysis
