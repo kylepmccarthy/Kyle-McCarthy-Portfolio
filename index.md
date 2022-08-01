@@ -64,7 +64,7 @@
 
 ### San Diego Earthquake Prediction Web Application
 
-* According to the California Geologic Survey, San Diego is vulnerable for a potential 6.9 earthquake. Below is the github repo for a future preparedness earthquake application. The user selects a zip code for a future potential earthquake epicenter. Based on the epicenter, the app predicts the damage cost in each zip code. The user can select a zip code to view all public buildings, their current condition, and overall cost. Based on these values, we develop a metric to determine building damage while highlighting which buildings should be repaired to withstand an earthquake. 
+* According to the California Geologic Survey, San Diego is vulnerable for a potential 6.9 earthquake. Below is the github repo for a future preparedness earthquake application. The user selects a zip code for a future potential earthquake epicenter. Based on the epicenter, the app predicts the damage cost in each zip code. The user can select a zip code to view all public buildings, their current condition, and overall cost. Based on these values, we develop a metric to determine building damage while highlighting which buildings should be repaired to withstand an earthquake. Unfortunately the website is no longer available due to having been hosted on AWS through a class. However the Github Source code is available for viewing below. 
 
 [Modeling Worse Case Scenario Public Building Earthquake Damage in San Diego- PostGreSQL, HTML, Python, SQL Alchemy, CSS, JavaScript, Flask, AWS)](https://github.com/kylepmccarthy/San-Diego-Earthquake-Model)
 
