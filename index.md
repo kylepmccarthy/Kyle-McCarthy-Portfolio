@@ -31,7 +31,7 @@
 
 * This study fills the gap in the literature by analyzing the fragmentation of rural land and farmland over time in Vermont, one of the most rural states in the USA. The study seeks to: 1) identify the drivers of rural land fragmentation; 2) identify the positive and negative  impacts of land fragmentation on farmers, the landscape, the local economy and to the environment); and 3) evaluate the effectiveness of policies and programs aimed at controlling the fragmentation of farmland: regulatory limits on farmland subdivision; preferential farmland property taxes; and the “preservation” of farmland through payments to farmers in return for a legally-binding agreement not to convert their farmland to non-farm uses. Took ownership of statistical calculations within studies along with the creation of all maps and figures. Facillitated in reasearch and discussion in determining driveres of rural fragmentation in Vermont and the effectivness of policies and programs controlling framland fragmentation. Paper in process of review for publication. 
 
-[Urban Forest Modelling Philadelphia, Pennsylvania - ESRI ArcGIS, SQL, Geospatial Statistics, Cartography](https://drive.google.com/file/d/1YKganCp9Gg8XgQWD1hncI3TdZBhpPdrQ/view?usp=sharing)
+[Vermont Countryside Fragmentation Analysis - ESRI ArcGIS, SQL, Geospatial Statistics, Cartography](https://drive.google.com/file/d/1YKganCp9Gg8XgQWD1hncI3TdZBhpPdrQ/view?usp=sharing)
 
 <img src="images/VermontMap.png?raw=true"/>
 
