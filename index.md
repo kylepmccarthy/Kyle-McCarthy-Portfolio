@@ -47,7 +47,8 @@
 
 <img src="images/growth.PNG?raw=true"/>
 
-------
+---
+
 ### San Diego Earthquake Prediction Web Application 
 
 * According to the California Geologic Survey, San Diego is vulnerable for a potential 6.9 earthquake. Below is the github repo for a future preparedness earthquake application. The user selects a zip code for a future potential earthquake epicenter. Based on the epicenter, the app predicts the damage cost in each zip code. The user can select a zip code to view all public buildings, their current condition, and overall cost. Based on these values, we develop a metric to determine building damage while highlighting which buildings should be repaired to withstand an earthquake. Unfortunately the website is no longer available due to having been hosted on AWS through a class. However the Github Source code is available for viewing below. 
@@ -55,9 +56,10 @@
 [Modeling Worse Case Scenario Public Building Earthquake Damage in San Diego- PostGreSQL, HTML, Python, SQL Alchemy, CSS, JavaScript, Flask, AWS)](https://github.com/kylepmccarthy/San-Diego-Earthquake-Model)
 
 <img src="images/sand.jpg?raw=true"/>
-------
 
-#### Home Tax Credit Prediction Model (
+---
+
+#### Home Tax Credit Prediction Model 
 
 * This study's motivation is to create a model regarding whether an individual will take the credit for a home repair tax credit in Emil City. Typically only 11% of the homeowners take the credit. Recently, the department created a new marketing campaign where they now project that 25% of the homeowners take the credit. A sample of records was given, which were then feature engineered to create a more accurate model. The cost of marketing is 2850 dollars per person. However, when someone takes the credit, the department makes 5000 dollars. The community also receives a benefit from the credit. Surrounding homes gain a 56000 dollar aggregate premium, while houses that take the credit sell with a 10000 dollar premium. This particular study creates a model to determine whether a specific individual will take the credit or not. A cost analysis of the model will also be performed, analyzing the model’s performance.
 
