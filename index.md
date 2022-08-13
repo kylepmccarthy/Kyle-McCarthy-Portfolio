@@ -16,6 +16,7 @@
 
 ------
 
+
 ### Vermont Car Crash Trauma Center Analysis
 
 * Often times the distance from a trauma center to a hospital determines if a car crash victim survives. In Vermont, there are only two trauma centers meaning that much of the state is at a higher risk for car crash deaths. This ArcPy tool determines where a new hospital is best located, specifically looking at where car crash risk is the highest along with underserved regions within the state. 
@@ -25,7 +26,6 @@
 <img src="images/Vermont.PNG?raw=true"/>
 
 ------
-
 
 ### The Fragmenting Countryside and the Challenge of Retaining Agricultural Land: The Vermont Case. 
 
@@ -48,20 +48,6 @@
 <img src="images/growth.PNG?raw=true"/>
 
 ------
-
-### Heroin Overdose Risk Modelling
-
-* I collaborated with Tristan Grupp in creating a machine learning model to predict heroin overdose risk in Cincinnati, Ohio. Our algorithm helps the Cincinnati City Government to determine where social services should be allocated, along with EMS services to prevent heroin overdose deaths. The data is then developed into a user friendly web application to best determine where EMS and rehabilition services should be placed. 
-
-[Modeling the Heroin Overdose Crisis in Cincinnati - R Studio (Machine Learning)](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmM-kaYQsX7k%26fbclid%3DIwAR360Wv4RbVYMpqIVk2d55uNUrvPSpcaO09fnAG1UvdfPeMNOVSNNQ5WmgM&h=AT0jWpFFAxozj4dA17KEef_cXbc04KK8UserChWlwssMJI7HPwL3ng4uVSvZBldG1sUWyttsesfEoI3tGLOuDNGgWA6cuQIq9H2wIKtlqErNJ1dCay0ubGuvOZFAPJi22ziMT5KaVPxtRdDGkyfm&__tn__=-UK-R&c[0]=AT33Rgnm4vR5ADXAM1eyU2nEYkYjoMzaZ6S1yPi_LXVD3kkLo7uwV4QrrgJ7VBTPunwh-IHHpY9z-yQGC5Sszp_oPK8JLXmD1QNoNucSv8R8-U6L-c8MWdguVONd0WKe8GFJ5ut2aQgAUN1-VBtP2ucIGw)
-
-[View Markdown](http://htmlpreview.github.io/?https://raw.githubusercontent.com/kylepmccarthy/Kylepmccarthy.github.io/master/cincy_final_backup2.html)
-
-<img src="images/youtube.PNG?raw=true"/>
-
-
-------
-
 ### San Diego Earthquake Prediction Web Application
 
 * According to the California Geologic Survey, San Diego is vulnerable for a potential 6.9 earthquake. Below is the github repo for a future preparedness earthquake application. The user selects a zip code for a future potential earthquake epicenter. Based on the epicenter, the app predicts the damage cost in each zip code. The user can select a zip code to view all public buildings, their current condition, and overall cost. Based on these values, we develop a metric to determine building damage while highlighting which buildings should be repaired to withstand an earthquake. Unfortunately the website is no longer available due to having been hosted on AWS through a class. However the Github Source code is available for viewing below. 
@@ -80,6 +66,21 @@
 <img src="images/churn.PNG?raw=true"/>
 
 ---
+
+### Heroin Overdose Risk Modelling
+
+* I collaborated with Tristan Grupp in creating a machine learning model to predict heroin overdose risk in Cincinnati, Ohio. Our algorithm helps the Cincinnati City Government to determine where social services should be allocated, along with EMS services to prevent heroin overdose deaths. The data is then developed into a user friendly web application to best determine where EMS and rehabilition services should be placed. 
+
+[Modeling the Heroin Overdose Crisis in Cincinnati - R Studio (Machine Learning)](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmM-kaYQsX7k%26fbclid%3DIwAR360Wv4RbVYMpqIVk2d55uNUrvPSpcaO09fnAG1UvdfPeMNOVSNNQ5WmgM&h=AT0jWpFFAxozj4dA17KEef_cXbc04KK8UserChWlwssMJI7HPwL3ng4uVSvZBldG1sUWyttsesfEoI3tGLOuDNGgWA6cuQIq9H2wIKtlqErNJ1dCay0ubGuvOZFAPJi22ziMT5KaVPxtRdDGkyfm&__tn__=-UK-R&c[0]=AT33Rgnm4vR5ADXAM1eyU2nEYkYjoMzaZ6S1yPi_LXVD3kkLo7uwV4QrrgJ7VBTPunwh-IHHpY9z-yQGC5Sszp_oPK8JLXmD1QNoNucSv8R8-U6L-c8MWdguVONd0WKe8GFJ5ut2aQgAUN1-VBtP2ucIGw)
+
+[View Markdown](http://htmlpreview.github.io/?https://raw.githubusercontent.com/kylepmccarthy/Kylepmccarthy.github.io/master/cincy_final_backup2.html)
+
+<img src="images/youtube.PNG?raw=true"/>
+
+
+------
+
+
 #### Bike Share Resource Allocation Model 
 
 * Bike share is a growing form of green transportation across the United States and the world. For Indego bike-share in Philadelphia to maximize bike share usage across the city, they must account for balancing.  This particular algorithm accounts for spatial and temporal scales to determine when and where bikes should be allocated to maximize bike share usage in Philadelphia.
