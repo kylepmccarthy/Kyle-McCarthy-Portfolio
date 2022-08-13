@@ -2,7 +2,7 @@
 
 ---
 
-##  University of Pennsylvania - Masters Urban Spatial Analytics
+##  University of Pennsylvania - Masters Urban Spatial Analytics (2020 - 2021) 
 
 ### Urban Forestry Modelling 
 
@@ -17,7 +17,7 @@
 ------
 
 
-### Vermont Car Crash Trauma Center Analysis
+### Vermont Car Crash Trauma Center Analysis 
 
 * Often times the distance from a trauma center to a hospital determines if a car crash victim survives. In Vermont, there are only two trauma centers meaning that much of the state is at a higher risk for car crash deaths. This ArcPy tool determines where a new hospital is best located, specifically looking at where car crash risk is the highest along with underserved regions within the state. 
 
@@ -27,7 +27,7 @@
 
 ------
 
-### The Fragmenting Countryside and the Challenge of Retaining Agricultural Land: The Vermont Case. 
+### The Fragmenting Countryside and the Challenge of Retaining Agricultural Land: The Vermont Case. (Research) 
 
 * This study fills the gap in the literature by analyzing the fragmentation of rural land and farmland over time in Vermont, one of the most rural states in the USA. The study seeks to: 1) identify the drivers of rural land fragmentation; 2) identify the positive and negative  impacts of land fragmentation on farmers, the landscape, the local economy and to the environment); and 3) evaluate the effectiveness of policies and programs aimed at controlling the fragmentation of farmland: regulatory limits on farmland subdivision; preferential farmland property taxes; and the “preservation” of farmland through payments to farmers in return for a legally-binding agreement not to convert their farmland to non-farm uses. Took ownership of statistical calculations within studies along with the creation of all maps and figures. Facillitated in reasearch and discussion in determining driveres of rural fragmentation in Vermont and the effectivness of policies and programs controlling framland fragmentation. Paper in process of review for publication. 
 
@@ -48,7 +48,7 @@
 <img src="images/growth.PNG?raw=true"/>
 
 ------
-### San Diego Earthquake Prediction Web Application
+### San Diego Earthquake Prediction Web Application 
 
 * According to the California Geologic Survey, San Diego is vulnerable for a potential 6.9 earthquake. Below is the github repo for a future preparedness earthquake application. The user selects a zip code for a future potential earthquake epicenter. Based on the epicenter, the app predicts the damage cost in each zip code. The user can select a zip code to view all public buildings, their current condition, and overall cost. Based on these values, we develop a metric to determine building damage while highlighting which buildings should be repaired to withstand an earthquake. Unfortunately the website is no longer available due to having been hosted on AWS through a class. However the Github Source code is available for viewing below. 
 
@@ -57,7 +57,7 @@
 <img src="images/sand.jpg?raw=true"/>
 ------
 
-#### Home Tax Credit Prediction Model 
+#### Home Tax Credit Prediction Model (
 
 * This study's motivation is to create a model regarding whether an individual will take the credit for a home repair tax credit in Emil City. Typically only 11% of the homeowners take the credit. Recently, the department created a new marketing campaign where they now project that 25% of the homeowners take the credit. A sample of records was given, which were then feature engineered to create a more accurate model. The cost of marketing is 2850 dollars per person. However, when someone takes the credit, the department makes 5000 dollars. The community also receives a benefit from the credit. Surrounding homes gain a 56000 dollar aggregate premium, while houses that take the credit sell with a 10000 dollar premium. This particular study creates a model to determine whether a specific individual will take the credit or not. A cost analysis of the model will also be performed, analyzing the model’s performance.
 
@@ -67,7 +67,7 @@
 
 ---
 
-### Heroin Overdose Risk Modelling
+### Heroin Overdose Risk Modelling 
 
 * I collaborated with Tristan Grupp in creating a machine learning model to predict heroin overdose risk in Cincinnati, Ohio. Our algorithm helps the Cincinnati City Government to determine where social services should be allocated, along with EMS services to prevent heroin overdose deaths. The data is then developed into a user friendly web application to best determine where EMS and rehabilition services should be placed. 
 
@@ -91,7 +91,7 @@
 
 ------
 
-### OLS Regression
+### OLS Regression 
 
 * Philadelphia is a diverse city earning the title of the "city of neighborhoods." Although neighborhood boundaries are often subjective, there are over fifty neighborhoods within the city limits. Each neighborhood has its distinct characteristics, consisting of significant differences in demographics, infrastructure, and land use. The spatial variability across the city creates a challenge for spatial modeling. Our goal is to evaluate median house values and their relationship to numerous census variables for this project utilizing OLS regression. 
 
@@ -101,7 +101,7 @@
 
 ------
 
-### Spatial Lag, Spatial Error, Geographically Weighted Regression
+### Spatial Lag, Spatial Error, Geographically Weighted Regression 
 
 * This study utilizes spatial lag, spatial error, and geographically weighted regression to account for spatial autocorrelation. The last study found that housing vacancy, college attainment, poverty status, and singly family homes were strong predictors of housing units' median value. We found this by regressing the dependent variable median house value on the predictors housing vacancy, single-family homes, college attainment, and poverty. Although the findings were statistically significant, the method did not account for spatial autocorrelation. This report intends to account for spatial lag, spatial error, and geographically weighted regression to determine if these methods are more suited for geographic analysis than ordinary least squares regression. 
 
@@ -132,8 +132,7 @@
 
 ------
 
-## University of Vermont Undergraduate 
-
+## University of Vermont Undergraduate (2016 - 2020) 
 
 ---------
 
