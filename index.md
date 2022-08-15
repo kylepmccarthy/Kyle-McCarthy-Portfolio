@@ -87,7 +87,7 @@
 
 * Bike share is a growing form of green transportation across the United States and the world. For Indego bike-share in Philadelphia to maximize bike share usage across the city, they must account for balancing.  This particular algorithm accounts for spatial and temporal scales to determine when and where bikes should be allocated to maximize bike share usage in Philadelphia.
 
-[Modeling Bike Share Usage Philadelphia - R Studio (Machine Learning)](https://rpubs.com/kylepmccarthy/710366?fbclid=IwAR3fos9kkoVe9W1RH8QCTbR7aWhHTbM7qKWlLPUTBcgpU4ER_lVkcXLjSbk)
+[Modeling Bike Share Usage Philadelphia - R Studio (Machine Learning)](https://rpubs.com/kylepmccarthy1/932755)
 
 <img src="images/bike.PNG?raw=true"/>
 
