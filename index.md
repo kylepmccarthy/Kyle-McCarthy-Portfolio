@@ -116,7 +116,7 @@
 
 ### Zoning Ordinance Analysis 
 
-* This particular paper is an analysis of Swanton, Vermont's zoning ordinance. There is a significant focus on how Swanton can best preserve its agriculture industry through zoning, provide recreational opportunity to Swanton residence while ensuring that Swanton's downtown village acts as its commercial, economic center. 
+* This is an analysis of Swanton, Vermont's zoning ordinance. The writing sample focuses on the ways Swanton can best preserve its agriculture industry through zoning, provide recreational opportunity to Swanton residence while ensuring that Swanton's downtown village acts as its commercial, economic center. 
 
 [Swanton, Vermont - Zoning Ordinance Analysis](https://drive.google.com/file/d/1b29rToJGBXgPllRc0IEYcCZmECbClpux/view?usp=sharing)
 
@@ -126,7 +126,7 @@
 
 ### Form Based Code Analysis 
 
-* This form-based code analysis analyzes the layout and land use functions within Lowell, Massachusetts Canal district. The paper focuses on the necessity to preserve Lowell's historic resources while creating a vibrant new mixed-use commercial/ residential land use zone adjacent to Lowell's city center. 
+* This form-based code analysis analyzes the layout and land use functions within Lowell, Massachusetts Canal district. The writing sample focuses on the necessity to preserve Lowell's historic resources while creating a vibrant new mixed-use commercial/ residential land use zone adjacent to Lowell's city center. 
 
 [Lowell, Massachussettes -  Form Based Code Analysis](https://drive.google.com/file/d/1tqiQnJHm8rBHdhSec6mP6Z3BVbdFFoSh/view?usp=sharing)
 
@@ -145,27 +145,6 @@
 [The Atomic Arrangement of Cr-rich Tourmaline from the #1 Mine, Balmat, St. Lawrence County, New York- MATLAB, APEX, Crystal Chemistry](https://www.mdpi.com/2075-163X/9/7/398)
 
 <img src="images/crystal.PNG?raw=true"/>
-
-------
-
-### Geochronology Research
-
-* This Geocrhonology research utilized skills in geochronology, petrology, structural geology, and geochemistry. Using these sub-geologic disciplines, we determined the timing of events within Chester Dome's creation. The insights in this research provide geologists with a greater understanding of rock formation in the Northeast United States. 
-
-
-[EVIDENCE FOR POLYPHASE DEFORMATION IN THE MYLONITIC ZONES BOUNDING THE CHESTER AND ATHENS DOMES, SOUTHEASTERN VERMONT, FROM 40AR/39AR GEOCHRONOLOGY](https://www.uvm.edu/sites/default/files/Department-of-Geology/SchnalzerPoster.pdf)
-
-<img src="images/rock.PNG?raw=true"/>
-
-------
-
-### ArcGIS Web Application, Utilizing Model Builder and Spatial Analysis Toolbox.
-
-* Utilizing model builder in ArcGIS, this web application creates a model for interpolating the Chester Dome's geochronologic ages. For successful completion of this assignment, data had to be compiled into a single data set, topology errors were corrected, and the application was deployed utilizing ArcGIS Online. 
-
-[Geochronology Web Application -  ArcGIS, ArcGIS Model Builder, ArcGIS Online](https://uvm.maps.arcgis.com/apps/webappviewer/index.html?id=18ce2bd9b28a44de952cb6278261bb00)
-
-<img src="images/geo.PNG?raw=true"/>
 
 ------
 
@@ -196,6 +175,27 @@
 [Mapping Essential Resources in the Greater Burlington Area via Local GMT Bus Routes](https://drive.google.com/file/d/1Hp5BMTz7gRHoaDwPTEz_XrJnomf24fLm/view?usp=sharing)
 
 <img src="images/bus.PNG?raw=true"/>
+
+------
+
+### Geochronology Research
+
+* This Geocrhonology research utilized skills in geochronology, petrology, structural geology, and geochemistry. Using these sub-geologic disciplines, we determined the timing of events within Chester Dome's creation. The insights in this research provide geologists with a greater understanding of rock formation in the Northeast United States. 
+
+
+[EVIDENCE FOR POLYPHASE DEFORMATION IN THE MYLONITIC ZONES BOUNDING THE CHESTER AND ATHENS DOMES, SOUTHEASTERN VERMONT, FROM 40AR/39AR GEOCHRONOLOGY](https://www.uvm.edu/sites/default/files/Department-of-Geology/SchnalzerPoster.pdf)
+
+<img src="images/rock.PNG?raw=true"/>
+
+------
+
+### ArcGIS Web Application, Utilizing Model Builder and Spatial Analysis Toolbox.
+
+* Utilizing model builder in ArcGIS, this web application creates a model for interpolating the Chester Dome's geochronologic ages. For successful completion of this assignment, data had to be compiled into a single data set, topology errors were corrected, and the application was deployed utilizing ArcGIS Online. 
+
+[Geochronology Web Application -  ArcGIS, ArcGIS Model Builder, ArcGIS Online](https://uvm.maps.arcgis.com/apps/webappviewer/index.html?id=18ce2bd9b28a44de952cb6278261bb00)
+
+<img src="images/geo.PNG?raw=true"/>
 
 ------
 
