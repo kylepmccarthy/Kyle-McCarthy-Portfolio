@@ -2,8 +2,9 @@
 
 ---
 
-##  University of Pennsylvania - Masters Urban Spatial Analytics (2020 - 2021) 
+##  University of Pennsylvania - Masters Urban Spatial Analytics - Data Analysis  
 
+--------
 ### Urban Forestry Modelling 
 
 * Most of Philadelphia tree canopy loss occurs in historically disenfranchised communities. In response, the City of Philadelphia has set essential milestones for conserving and increasing the current tree canopy in the city. In this analysis, we model tree canopy loss in Philadelphia and identify risk factors. We additionally assess the city's progress on the goals and how this varies across neighborhoods. The model predicts where substantial tree canopy loss in Philadelphia is most likely to occur. By predicting substantial tree canopy risk, we hope that the model can serve as a tool for local environmental non-profits and government agencies to prioritize their urban greening initiatives. We created a user-friendly web application to communicate the results. The web application has three distinct features. First, the application allows you to view the current state of the tree canopy in Philadelphia. Second, the application allows users to view where construction permits locate. Third, most importantly, the application allows users to view areas that are at high risk for substantial tree canopy loss.
@@ -114,6 +115,10 @@
 
 ------
 
+##  University of Pennsylvania - Masters Urban Spatial Analytics - Writing Samples
+
+---------
+
 ### Zoning Ordinance Analysis 
 
 * This is an analysis of Swanton, Vermont's zoning ordinance. The writing sample focuses on the ways Swanton can best preserve its agriculture industry through zoning, provide recreational opportunity to Swanton residence while ensuring that Swanton's downtown village acts as its commercial, economic center. 
@@ -134,19 +139,9 @@
 
 ------
 
-## University of Vermont Undergraduate (2016 - 2020) 
+## University of Vermont Undergraduate - Data Analysis 
 
 ---------
-
-### Crystal Chemistry Research
-
-* A professional paper describing the behavior of chromium within the mineral tourmaline. An analysis of nine recently published, high-precision structures of chromium-bearing tourmaline, in combination with the Adirondack tourmaline, suggests that structural changes to the Y-site at low concentrations of Cr3+ induce changes in the Z-site that make it more amenable to incorporation of the Cr3+ substituents by increasing <Z–O>. The bond lengths change to lower the bond-valence sum of Cr3+ in the Z-site of the chromium-dravite, making that site more amenable to the substituent. Calculations suggest that the Z-site begins to accept substituent Cr3+ when the bond valence sum of that ion in Z reduces to a value of ~3.36 valence units
-
-[The Atomic Arrangement of Cr-rich Tourmaline from the #1 Mine, Balmat, St. Lawrence County, New York- MATLAB, APEX, Crystal Chemistry](https://www.mdpi.com/2075-163X/9/7/398)
-
-<img src="images/crystal.PNG?raw=true"/>
-
-------
 
 ### ENVI Remote Sensing Time Series Analysis 
 
@@ -178,6 +173,30 @@
 
 ------
 
+### ArcGIS Web Application, Utilizing Model Builder and Spatial Analysis Toolbox.
+
+* Utilizing model builder in ArcGIS, this web application creates a model for interpolating the Chester Dome's geochronologic ages. For successful completion of this assignment, data had to be compiled into a single data set, topology errors were corrected, and the application was deployed utilizing ArcGIS Online. 
+
+[Geochronology Web Application -  ArcGIS, ArcGIS Model Builder, ArcGIS Online](https://uvm.maps.arcgis.com/apps/webappviewer/index.html?id=18ce2bd9b28a44de952cb6278261bb00)
+
+<img src="images/geo.PNG?raw=true"/>
+
+------
+
+## University of Vermont Undergraduate - Geology 
+
+---------
+
+### Crystal Chemistry Research
+
+* A professional paper describing the behavior of chromium within the mineral tourmaline. An analysis of nine recently published, high-precision structures of chromium-bearing tourmaline, in combination with the Adirondack tourmaline, suggests that structural changes to the Y-site at low concentrations of Cr3+ induce changes in the Z-site that make it more amenable to incorporation of the Cr3+ substituents by increasing <Z–O>. The bond lengths change to lower the bond-valence sum of Cr3+ in the Z-site of the chromium-dravite, making that site more amenable to the substituent. Calculations suggest that the Z-site begins to accept substituent Cr3+ when the bond valence sum of that ion in Z reduces to a value of ~3.36 valence units
+
+[The Atomic Arrangement of Cr-rich Tourmaline from the #1 Mine, Balmat, St. Lawrence County, New York- MATLAB, APEX, Crystal Chemistry](https://www.mdpi.com/2075-163X/9/7/398)
+
+<img src="images/crystal.PNG?raw=true"/>
+
+------
+
 ### Geochronology Research
 
 * This Geocrhonology research utilized skills in geochronology, petrology, structural geology, and geochemistry. Using these sub-geologic disciplines, we determined the timing of events within Chester Dome's creation. The insights in this research provide geologists with a greater understanding of rock formation in the Northeast United States. 
@@ -186,16 +205,6 @@
 [EVIDENCE FOR POLYPHASE DEFORMATION IN THE MYLONITIC ZONES BOUNDING THE CHESTER AND ATHENS DOMES, SOUTHEASTERN VERMONT, FROM 40AR/39AR GEOCHRONOLOGY](https://www.uvm.edu/sites/default/files/Department-of-Geology/SchnalzerPoster.pdf)
 
 <img src="images/rock.PNG?raw=true"/>
-
-------
-
-### ArcGIS Web Application, Utilizing Model Builder and Spatial Analysis Toolbox.
-
-* Utilizing model builder in ArcGIS, this web application creates a model for interpolating the Chester Dome's geochronologic ages. For successful completion of this assignment, data had to be compiled into a single data set, topology errors were corrected, and the application was deployed utilizing ArcGIS Online. 
-
-[Geochronology Web Application -  ArcGIS, ArcGIS Model Builder, ArcGIS Online](https://uvm.maps.arcgis.com/apps/webappviewer/index.html?id=18ce2bd9b28a44de952cb6278261bb00)
-
-<img src="images/geo.PNG?raw=true"/>
 
 ------
 
