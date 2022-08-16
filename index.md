@@ -183,7 +183,7 @@
 
 ------
 
-## University of Vermont Undergraduate - Geology 
+## University of Vermont Undergraduate - Published Geology Research
 
 ---------
 
