@@ -60,7 +60,7 @@
 
 ---
 
-#### Home Tax Credit Prediction Model 
+### Home Tax Credit Prediction Model 
 
 * This study's motivation is to create a model regarding whether an individual will take the credit for a home repair tax credit in Emil City. Typically only 11% of the homeowners take the credit. Recently, the department created a new marketing campaign where they now project that 25% of the homeowners take the credit. A sample of records was given, which were then feature engineered to create a more accurate model. The cost of marketing is 2850 dollars per person. However, when someone takes the credit, the department makes 5000 dollars. The community also receives a benefit from the credit. Surrounding homes gain a 56000 dollar aggregate premium, while houses that take the credit sell with a 10000 dollar premium. This particular study creates a model to determine whether a specific individual will take the credit or not. A cost analysis of the model will also be performed, analyzing the model’s performance.
 
@@ -84,7 +84,7 @@
 ------
 
 
-#### Bike Share Resource Allocation Model 
+### Bike Share Resource Allocation Model 
 
 * Bike share is a growing form of green transportation across the United States and the world. For Indego bike-share in Philadelphia to maximize bike share usage across the city, they must account for balancing.  This particular algorithm accounts for spatial and temporal scales to determine when and where bikes should be allocated to maximize bike share usage in Philadelphia.
 
