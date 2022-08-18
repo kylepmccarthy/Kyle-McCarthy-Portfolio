@@ -1,5 +1,7 @@
 # Kyle McCarthy's Portfolio
 
+#### Kyle.p.mccarthy97@gmail.com
+
 ---
 
 ##  University of Pennsylvania - Masters Urban Spatial Analytics - Data Analysis  
