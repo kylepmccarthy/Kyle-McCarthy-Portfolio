@@ -2,7 +2,7 @@
 
 ---
 
-##  GIS Data Visualizatoin and Web Development 
+##  Data Visualization and Web Development 
 
 -------
 
