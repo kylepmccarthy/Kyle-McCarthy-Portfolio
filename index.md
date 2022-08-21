@@ -2,9 +2,10 @@
 
 ---
 
-##  University of Pennsylvania - Masters Urban Spatial Analytics - Data Analysis  
+##  GIS Web Development 
 
---------
+-------
+
 ### Urban Forestry Modelling 
 
 * Most of Philadelphia tree canopy loss occurs in historically disenfranchised communities. In response, the City of Philadelphia has set essential milestones for conserving and increasing the current tree canopy in the city. In this analysis, we model tree canopy loss in Philadelphia and identify risk factors. We additionally assess the city's progress on the goals and how this varies across neighborhoods. The model predicts where substantial tree canopy loss in Philadelphia is most likely to occur. By predicting substantial tree canopy risk, we hope that the model can serve as a tool for local environmental non-profits and government agencies to prioritize their urban greening initiatives. We created a user-friendly web application to communicate the results. The web application has three distinct features. First, the application allows you to view the current state of the tree canopy in Philadelphia. Second, the application allows users to view where construction permits locate. Third, most importantly, the application allows users to view areas that are at high risk for substantial tree canopy loss.
@@ -17,6 +18,19 @@
 
 ------
 
+### San Diego Earthquake Prediction Web Application 
+
+* According to the California Geologic Survey, San Diego is vulnerable for a potential 6.9 earthquake. Below is the github repo for a future preparedness earthquake application. The user selects a zip code for a future potential earthquake epicenter. Based on the epicenter, the app predicts the damage cost in each zip code. The user can select a zip code to view all public buildings, their current condition, and overall cost. Based on these values, we develop a metric to determine building damage while highlighting which buildings should be repaired to withstand an earthquake. Unfortunately, the website is no longer available due to having been hosted on AWS through a class. However, the Github Source code is available for viewing below. 
+
+[Modeling Worse Case Scenario Public Building Earthquake Damage in San Diego- PostGreSQL, HTML, Python, SQL Alchemy, CSS, JavaScript, Flask, AWS)](https://github.com/kylepmccarthy/San-Diego-Earthquake-Model)
+
+<img src="images/sand.jpg?raw=true"/>
+
+-------
+
+## Geospatial Modelling 
+
+-------
 
 ### Vermont Car Crash Trauma Center Analysis 
 
@@ -28,15 +42,6 @@
 
 ------
 
-### The Fragmenting Countryside and the Challenge of Retaining Agricultural Land: The Vermont Case. (Research) 
-
-* This study fills the gap in the literature by analyzing the fragmentation of rural land and farmland over time in Vermont, one of the most rural states in the USA. The study seeks to: 1) identify the drivers of rural land fragmentation; 2) identify the positive and negative  impacts of land fragmentation on farmers, the landscape, the local economy and to the environment); and 3) evaluate the effectiveness of policies and programs aimed at controlling the fragmentation of farmland: regulatory limits on farmland subdivision; preferential farmland property taxes; and the “preservation” of farmland through payments to farmers in return for a legally-binding agreement not to convert their farmland to non-farm uses. Took ownership of statistical calculations within studies along with the creation of all maps and figures. Facillitated in reasearch and discussion in determining driveres of rural fragmentation in Vermont and the effectivness of policies and programs controlling framland fragmentation. Paper in process of review for publication. 
-
-[Vermont Countryside Fragmentation Analysis - ESRI ArcGIS, SQL, Geospatial Statistics, Cartography](https://drive.google.com/file/d/1YKganCp9Gg8XgQWD1hncI3TdZBhpPdrQ/view?usp=sharing)
-
-<img src="images/VermontMap.png?raw=true"/>
-
-------
 
 ### Urban Growth Modelling 
 
@@ -47,16 +52,6 @@
 [Poster Summary](https://raw.githubusercontent.com/kylepmccarthy/Kylepmccarthy.github.io/master/PosterGrowth1.PNG)
 
 <img src="images/growth.PNG?raw=true"/>
-
----
-
-### San Diego Earthquake Prediction Web Application 
-
-* According to the California Geologic Survey, San Diego is vulnerable for a potential 6.9 earthquake. Below is the github repo for a future preparedness earthquake application. The user selects a zip code for a future potential earthquake epicenter. Based on the epicenter, the app predicts the damage cost in each zip code. The user can select a zip code to view all public buildings, their current condition, and overall cost. Based on these values, we develop a metric to determine building damage while highlighting which buildings should be repaired to withstand an earthquake. Unfortunately the website is no longer available due to having been hosted on AWS through a class. However the Github Source code is available for viewing below. 
-
-[Modeling Worse Case Scenario Public Building Earthquake Damage in San Diego- PostGreSQL, HTML, Python, SQL Alchemy, CSS, JavaScript, Flask, AWS)](https://github.com/kylepmccarthy/San-Diego-Earthquake-Model)
-
-<img src="images/sand.jpg?raw=true"/>
 
 ---
 
@@ -92,7 +87,11 @@
 
 <img src="images/bike.PNG?raw=true"/>
 
-------
+---------
+
+## Geospatial Statistics 
+
+---------
 
 ### OLS Regression 
 
@@ -115,7 +114,7 @@
 
 ------
 
-##  University of Pennsylvania - Masters Urban Spatial Analytics - Writing Samples
+##  Writing Samples 
 
 ---------
 
@@ -139,53 +138,19 @@
 
 ------
 
-## University of Vermont Undergraduate - Data Analysis 
+## Published Research
 
 ---------
 
-### ENVI Remote Sensing Time Series Analysis 
+### The Fragmenting Countryside and the Challenge of Retaining Agricultural Land: The Vermont Case 
 
-* I created a time series analysis to determine how Hurricane Barry changed overtime after hitting landfall in 2019. Utilizing remote sensing techniques, I created three different time series to determine how changes occurred in Hurricane Barry within different portions of the atmosphere. 
+* This study fills the gap in the literature by analyzing the fragmentation of rural land and farmland over time in Vermont, one of the most rural states in the USA. The study seeks to: 1) identify the drivers of rural land fragmentation; 2) identify the positive and negative  impacts of land fragmentation on farmers, the landscape, the local economy and to the environment); and 3) evaluate the effectiveness of policies and programs aimed at controlling the fragmentation of farmland: regulatory limits on farmland subdivision; preferential farmland property taxes; and the “preservation” of farmland through payments to farmers in return for a legally-binding agreement not to convert their farmland to non-farm uses. Took ownership of statistical calculations within studies along with the creation of all maps and figures. Facillitated in reasearch and discussion in determining driveres of rural fragmentation in Vermont and the effectivness of policies and programs controlling framland fragmentation. Paper in process of review for publication. 
 
-[ENVI Time Series Analysis: Detecting Changes in Atmospheric Water Vapor and Cloud Features within Hurricane Barry](https://drive.google.com/file/d/1gPxt5yPMF9d0hxpzzUlLqvzCTWy8yjiB/view?usp=sharing)
+[Vermont Countryside Fragmentation Analysis - ESRI ArcGIS, SQL, Geospatial Statistics, Cartography](https://drive.google.com/file/d/1YKganCp9Gg8XgQWD1hncI3TdZBhpPdrQ/view?usp=sharing)
 
-<img src="images/envi.PNG?raw=true"/>
-
-------
-
-### Tableau Data Visualization
-
-* Below is a data visualization utilizing ArcGIS and Tableau to present the relationship between surface termperature and tree canopy coverage within Indiana. 
-
-[Indiana Tree Canopy and Surface Temperature Relationships - ArcGIS, Tableau](https://public.tableau.com/profile/kyle3622#!/vizhome/RelationshipBetweenTreeCanopyandMeanSurfaceTemperatureinIndianapolisGrids/Dashboard1?publish=yes)
-
-<img src="images/tree.PNG?raw=true"/>
+<img src="images/VermontMap.png?raw=true"/>
 
 ------
-
-### Burlington, Vermont Public Transit Analysis 
-
-* This series of data visualizations represent where Burlington services are located. Utilizing the services' spatial distribution, we determined which the Burlington Bus System currently undeserves regions in Burlington. Green Mountain Transit used the findings to create better bus routes within the city. 
-
-[Mapping Essential Resources in the Greater Burlington Area via Local GMT Bus Routes](https://drive.google.com/file/d/1Hp5BMTz7gRHoaDwPTEz_XrJnomf24fLm/view?usp=sharing)
-
-<img src="images/bus.PNG?raw=true"/>
-
-------
-
-### ArcGIS Web Application, Utilizing Model Builder and Spatial Analysis Toolbox.
-
-* Utilizing model builder in ArcGIS, this web application creates a model for interpolating the Chester Dome's geochronologic ages. For successful completion of this assignment, data had to be compiled into a single data set, topology errors were corrected, and the application was deployed utilizing ArcGIS Online. 
-
-[Geochronology Web Application -  ArcGIS, ArcGIS Model Builder, ArcGIS Online](https://uvm.maps.arcgis.com/apps/webappviewer/index.html?id=18ce2bd9b28a44de952cb6278261bb00)
-
-<img src="images/geo.PNG?raw=true"/>
-
-------
-
-## University of Vermont Undergraduate - Published Geology Research
-
----------
 
 ### Crystal Chemistry Research
 
