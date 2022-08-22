@@ -1,6 +1,5 @@
 ---
 title: "Kyle McCarthy's Portfolio"
-type: contents 
 
 ---
 
