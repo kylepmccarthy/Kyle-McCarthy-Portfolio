@@ -1,13 +1,6 @@
 ---
 title: "Kyle McCarthy's Portfolio"
-output: 
-  html_document:
-    keep_md: true
-    toc: true
-    theme: cosmo
-    toc_float: true
-    code_folding: hide
-    number_sections: TRUE
+toc: true 
 ---
 
 # Kyle McCarthy's Portfolio
