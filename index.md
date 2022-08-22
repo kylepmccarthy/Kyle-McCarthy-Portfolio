@@ -1,6 +1,6 @@
 ---
 title: "Kyle McCarthy's Portfolio"
-toc: true 
+type: contents 
 
 ---
 
