@@ -1,5 +1,6 @@
 title: About Me # your name (or website title) here
 logo: "/images/me.jpg?raw=true" # your photo (or logo) here
+toc: true 
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
  
