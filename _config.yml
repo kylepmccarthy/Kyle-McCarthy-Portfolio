@@ -1,5 +1,8 @@
 title: About Me # your name (or website title) here
-toc: true 
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
 logo: "/images/me.jpg?raw=true" # your photo (or logo) here
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
